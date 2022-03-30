@@ -8,4 +8,5 @@ times_five = get_number * 5
 print("{} times five is equals to {}".format(get_number, times_five))
 
 
-print("Hello Joseph") 
+print
+
